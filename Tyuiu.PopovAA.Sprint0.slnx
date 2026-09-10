@@ -5,4 +5,9 @@
   <Folder Name="/Task1/">
     <Project Path="Tyuiu.PopovAA.Sprint0.Task1.V0/Tyuiu.PopovAA.Sprint0.Task1.V0.csproj" />
   </Folder>
+  <Folder Name="/Task2/">
+    <Project Path="Tyuiu.PopovAA.Sprint0.Task2.V0.Lib/Tyuiu.PopovAA.Sprint0.Task2.V0.Lib.csproj" Id="0b2598a5-dcd9-4221-abaa-a2dad0ec14a1" />
+    <Project Path="Tyuiu.PopovAA.Sprint0.Task2.V0.Test/Tyuiu.PopovAA.Sprint0.Task2.V0.Test.csproj" Id="15a6a406-a179-41eb-b8fc-0728b4f1d9ef" />
+    <Project Path="Tyuiu.PopovAA.Sprint0.Task2.V0/Tyuiu.PopovAA.Sprint0.Task2.V0.csproj" Id="c687190e-cd66-4bd5-820c-e807fbe879aa" />
+  </Folder>
 </Solution>
