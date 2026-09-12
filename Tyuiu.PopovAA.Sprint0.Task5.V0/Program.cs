@@ -11,7 +11,7 @@ namespace Tyuiu.PopovAA.Sprint0.Task5.V0
 
             Console.WriteLine("A * B = " + DataService.Multiplication(10, 5));
 
-            Console.WriteLine("A / B = " + DataService.Division(10, 2));
+            Console.WriteLine("A / B = " + DataService.Division(10, 0));
         }
     }
 }
